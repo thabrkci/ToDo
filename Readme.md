@@ -31,4 +31,4 @@
 ***
 ```Thank you again and I wish everyone success.```
 
-![Image from the program](<Ekran görüntüsü 2024-01-12 180852.png>)
+![Image from the program](<Imagefromprogram.png>)
