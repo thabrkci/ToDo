@@ -1,0 +1,14 @@
+C:\Users\Taha\OneDrive\Masaüstü\PTK\ToDo\bin\Debug\net7.0\ToDo.exe
+C:\Users\Taha\OneDrive\Masaüstü\PTK\ToDo\bin\Debug\net7.0\ToDo.deps.json
+C:\Users\Taha\OneDrive\Masaüstü\PTK\ToDo\bin\Debug\net7.0\ToDo.runtimeconfig.json
+C:\Users\Taha\OneDrive\Masaüstü\PTK\ToDo\bin\Debug\net7.0\ToDo.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\ToDo\bin\Debug\net7.0\ToDo.pdb
+C:\Users\Taha\OneDrive\Masaüstü\PTK\ToDo\obj\Debug\net7.0\ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\OneDrive\Masaüstü\PTK\ToDo\obj\Debug\net7.0\ToDo.AssemblyInfoInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\ToDo\obj\Debug\net7.0\ToDo.AssemblyInfo.cs
+C:\Users\Taha\OneDrive\Masaüstü\PTK\ToDo\obj\Debug\net7.0\ToDo.csproj.CoreCompileInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\ToDo\obj\Debug\net7.0\ToDo.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\ToDo\obj\Debug\net7.0\refint\ToDo.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\ToDo\obj\Debug\net7.0\ToDo.pdb
+C:\Users\Taha\OneDrive\Masaüstü\PTK\ToDo\obj\Debug\net7.0\ToDo.genruntimeconfig.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\ToDo\obj\Debug\net7.0\ref\ToDo.dll
