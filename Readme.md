@@ -3,7 +3,7 @@
  ***
 ```ToDo uygulaması içinde bulunan özellikler;```
 ***
->1.Kart Ekle
+1.Kart Ekle
 2.Kart Güncelle
 3.Kart Sil
 4.Kart Taşı
@@ -20,7 +20,7 @@
  ***
 ```Features included in ToDo application```
 ***
->1.Add Card
+1.Add Card
 2.Update Card
 3.Delete Card
 4th Card Stone
