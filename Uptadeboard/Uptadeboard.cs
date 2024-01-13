@@ -77,35 +77,35 @@ namespace ToDo
                     Console.WriteLine("<>|<>Card(s) updated successfully<>|<>");
                     Console.WriteLine("||Select the action you want to take|| ");
                 }
+                    // Prompt the user to try again or exit
+                    Console.WriteLine("To try again(y),To exit(n)");
 
-                // Prompt the user to try again or exit
-                Console.WriteLine("To try again(y),To exit(n)");
+                    // Read the user input for the next action
+                    string? selectaction = Console.ReadLine();
 
-                // Read the user input for the next action
-                string? selectaction = Console.ReadLine();
-
-                // Check if the input is empty or contains only whitespace
-                if (string.IsNullOrWhiteSpace(selectaction))
-                {
-                    // Display an error message for an invalid entry
-                    Console.WriteLine("<>|Invalid entry, please enter a valid option|<>");
-
-                }
-                else
-                {
-                    // Check if the user wants to try again or exit
-                    if (string.Equals(selectaction, "y", StringComparison.OrdinalIgnoreCase))
+                    // Check if the input is empty or contains only whitespace
+                    if (string.IsNullOrWhiteSpace(selectaction))
                     {
-                        // Restart the updating process
-                        Uptadeboard.Uptadedboard(board);
+                        // Display an error message for an invalid entry
+                        Console.WriteLine("<>|Invalid entry, please enter a valid option|<>");
+
                     }
                     else
                     {
-                        // Display a message and return to the ToDo-Menu
-                        Console.WriteLine("<><>Back to ToDo-Menu<><>");
-                        return;
+                        // Check if the user wants to try again or exit
+                        if (string.Equals(selectaction, "y", StringComparison.OrdinalIgnoreCase))
+                        {
+                            // Restart the updating process
+                            Uptadeboard.Uptadedboard(board);
+                        }
+                        else
+                        {
+                            // Display a message and return to the ToDo-Menu
+                            Console.WriteLine("<><>Back to ToDo-Menu<><>");
+                            return;
+                        }
                     }
-                }
+                
             }
         }
     }
