@@ -39,7 +39,6 @@ namespace ToDo
                 Console.WriteLine("Invalid login please try again !");
                 Console.WriteLine("||Select Size||--> XS(1), S(2), M(3), L(4), XL(5): ");
             }
-
             // Create and initialize a new Card instance
             Card newCard = new Card(title, content, assignedPersonID, selectedSize);
 
